@@ -1,5 +1,3 @@
-# RITSEC Weekly Labs
-
 ## Week 1: Introduction to Linux
 1. `cd week01`
 2. `docker compose up -d`
