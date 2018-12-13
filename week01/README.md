@@ -4,6 +4,7 @@
 3. `ssh ritsec@localhost -p12345 (password is ritsec)`
 
 #### Hints:
+All flags will be in the format of `RS{flag_goes_here}`\
 Easy 1: Where are system usernames stored?\
 Easy 2: hackerman1337 is hiding the flag in his home directory!\
 Medium 1: I wish I could find my flag... (format is flag.txt)\
