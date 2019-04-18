@@ -13,3 +13,7 @@ Hard: What's in hard.txt?
 
 ### Solution:
 https://docs.google.com/document/d/1VkCr2RWjTCmpaO2rt6YS3302ZGi2V9vACgLfSqMGI2c/edit?usp=sharing
+
+
+### TODO:
+This is broken because I did not push the dotfiles, therefore the compose breaks. Oops. Will be fixed soon^TM
